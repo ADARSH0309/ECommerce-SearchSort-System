@@ -1,0 +1,10 @@
+Sorted by Price: 
+Cherry - $20
+Banana - $30
+Apple - $50
+Found by ID: {ID: 101, Name: "Apple", Price: $50}
+Sorted by Rating: 
+Cherry - Rating: 4.3
+Apple - Rating: 4.5
+Banana - Rating: 4.7
+Found by Name: {ID: 101, Name: "Apple", Price: $50}
