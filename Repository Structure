@@ -1,0 +1,17 @@
+ECommerceSearchSortSystem/
+│
+├── src/
+│   ├── Product.h
+│   ├── Product.cpp
+│   ├── SortingAlgorithms.h
+│   ├── SortingAlgorithms.cpp
+│   ├── SearchingAlgorithms.h
+│   ├── SearchingAlgorithms.cpp
+│   ├── main.cpp
+│
+├── tests/
+│   ├── test_Product.cpp
+│   ├── test_SortingSearching.cpp
+│
+├── README.md
+└── sample_output.txt
